@@ -1,12 +1,10 @@
 # Cloud Storage Security, Access Monitoring & Misconfiguration Detection System
 
-## Project Overview
+## 1. Ideation
 
-This project proposes a security system for cloud storage that focuses on identifying insecure storage configurations, monitoring access activity, and detecting common security misconfigurations.
+The idea of this project is to develop a lightweight cybersecurity system for cloud storage that can assess storage security, monitor access activity, and identify common security misconfigurations.
 
 The system is designed around Amazon S3 as the cloud-storage environment and uses Python-based security modules with a rule-based analysis approach.
-
-The current prototype implements the core security-analysis modules and uses a simulated S3 environment for development and testing.
 
 ---
 
