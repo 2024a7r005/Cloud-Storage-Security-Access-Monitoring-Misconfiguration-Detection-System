@@ -1,0 +1,6 @@
+Bucket,Encryption,PublicAccessBlocked,Versioning,PublicPolicy,User,Action,Status
+company-data,Yes,Yes,Yes,No,Alice,GetObject,Success
+backup-data,No,No,No,Yes,Unknown,GetObject,Failed
+logs-data,Yes,Yes,No,No,Bob,DeleteObject,Success
+backup-data,No,No,No,Yes,Unknown,GetObject,Failed
+backup-data,No,No,No,Yes,Unknown,GetObject,Failed
